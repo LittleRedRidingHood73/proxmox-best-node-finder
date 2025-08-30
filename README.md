@@ -6,10 +6,11 @@ To use this script you will need to first change the MANAGER_IP, API_TOKEN, and 
 
 ## CLI command
 To run it simply type in:
-`.proxmox-best-node-finder`
+`./proxmox-best-node-finder`
 
 ## Verbose Mode
 To run in verbose mode, use:
-`.proxmox-best-node-finder -d`
+`./proxmox-best-node-finder -d`
 or
-`.proxmox-best-node-finder -debug`
+`./proxmox-best-node-finder -debug`
+
